@@ -1,1 +1,1 @@
-# JustForFun
+# Just a sample repo for learning purposes
